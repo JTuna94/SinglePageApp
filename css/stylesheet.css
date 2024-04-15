@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    color: inherit;
+    outline: 0;
+}
+
+#anchors {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+}
+
+.card-header {
+    font-size: 40px;
+    background-color: aqua;
+    width: 250px ;
+    text-align: center;
+}
